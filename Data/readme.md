@@ -1,4 +1,4 @@
-Our team has signed an NDA agreeing not to disclose the satellite imagery data used in this project on behalf of the United Nations. As such, no data files are included in this public repository.
+Our team has signed an NDA and cannot disclose the satellite imagery data used in this project on behalf of the United Nations. As such, no data files are included in this public repository.
 
 In general, individual images contained multiple spectral bands and were defined by several key variables:
 * `aoi` - Area of Interest (int): labeled area within Colombia that had ordinance removal work done by the U.N.
