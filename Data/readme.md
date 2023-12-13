@@ -4,4 +4,4 @@ In general, individual images contained multiple spectral bands and were defined
 * `aoi` - Area of Interest (int): labeled area within Colombia that had ordinance removal work done by the U.N.
 * `before` or `after` - whether the image was captured before or after ordinance removal work was done. This allows for before-v-after comparisons to see if development has occured in that area of interest (AOI)
 
-Images in the original directory were stored as .tif files
+Images in the original directory were stored as TIF files
