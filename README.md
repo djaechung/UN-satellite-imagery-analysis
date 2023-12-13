@@ -6,10 +6,14 @@ This repository is a public copy of the original private repository. It contains
 This work is important because it allows the United Nations to conduct further research into the effects of ordinance removal projects on human developement within Colombia. Human development is measured by the very settlements, roads, and reduction in land cover that our models detect, making our algorithms a critical foundation for future analyses. Notably, our road and land cover models achieve 0.93 AUC and 0.99 accuracy on a per-pixel classification basis. We are pleased to report that this project won 2nd out of 21 teams at the MIT Analytics Lab showcase in 2022!
 
 Contents:
-* ``
-
-Human Settlement Detection Team:
-> Shurui (Sherry) Cao <br /> Xinyao Zhou
+* `Data` - 
+* `Models` - 
+* `Results` - 
+* `Project_Presentation.pdf` - 
+* `Project_Report.pdf` - 
 
 Road and Land Cover Detection Team:
 > Daniel Chung `Daniel Chung` <br /> Zehao (Andy) Zhou
+
+Human Settlement Detection Team:
+> Shurui (Sherry) Cao <br /> Xinyao Han
